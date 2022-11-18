@@ -1,6 +1,6 @@
 {
   "name": "react-file-viewer-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Example React Package",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -32,7 +32,7 @@
     "typescript"
   ],
   "author": "Ryan Richwine",
-  "license": "MIT",
+  "license": "GNU GPL V3.0",
   "bugs": {
     "url": "https://github.com/sake-pub/react-file-viewer-ts/issues"
   },
